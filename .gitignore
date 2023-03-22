@@ -8,3 +8,4 @@
 /Release/
 /Examples/bin/
 *.tmp_proj
+.vs/
