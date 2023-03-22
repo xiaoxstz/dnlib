@@ -9,3 +9,4 @@
 /Examples/bin/
 *.tmp_proj
 .vs/
+bin/
